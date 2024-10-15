@@ -5,7 +5,7 @@
 
 This is a basic keylogger that detects and displays which key is pressed. It runs in the browser and shows the key press events in real time.
 
-Reach out-[]
+Reach out-[https://ayush01-hub.github.io/Keylogger/]
 
 ## Features
 - Detects and displays key presses
@@ -18,7 +18,4 @@ This project is for educational purposes only. It should not be used for any mal
 ## Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, etc.)
 
-## Usage
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/yourusername/js-keylogger.git
+
